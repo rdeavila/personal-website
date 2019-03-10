@@ -5,7 +5,7 @@ date: 2014-02-25 17:08:00.000000000 -03:00
 ---
 Gera queries do tipo CREATE INDEX para todos os índices de um banco de dados.
 
-{% highlight sql %}
+```sql
 select
    'CREATE INDEX '|| index_name || ' ON ' || table_name || ' ( ' || colunas || ' );'  
 from
@@ -58,4 +58,4 @@ from
       order by
          t.relname,
          i.relname ) as base) as base2;
-{% endhighlight %}
+```
