@@ -51,21 +51,26 @@ social_media:
   # youtube: your_username
 
 topics:
- - name: Bash
-   web_url: https://github.com/topics/bash
-   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bash/bash.png
- - name: Docker
-   web_url: https://github.com/topics/docker
-   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
- - name: Google Cloud Platform
-   web_url: https://github.com/topics/google-cloud
-   image_url: https://avatars0.githubusercontent.com/u/2810941?s=200&v=4
- - name: PostgreSQL
-   web_url: https://github.com/topics/postgresql
-   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/postgresql/postgresql.png
- - name: Rails
-   web_url: https://github.com/topics/rails
-   image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/rails/rails.png
-- name: Ubuntu
-   web_url: https://github.com/topics/ubuntu
-   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ubuntu/ubuntu.png
+  - name: Bash
+    web_url: https://github.com/topics/bash
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/bash/bash.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+
+  - name: Google Cloud Platform
+    web_url: https://github.com/topics/google-cloud
+    image_url: https://avatars0.githubusercontent.com/u/2810941?s=200&v=4
+
+  - name: PostgreSQL
+    web_url: https://github.com/topics/postgresql
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/postgresql/postgresql.png
+
+  - name: Rails
+    web_url: https://github.com/topics/rails
+    image_url: https://raw.githubusercontent.com/github/explore/fd96fceccf8c42c99cbe29cf0f8dcc4736fcb85a/topics/rails/rails.png
+
+  - name: Ubuntu
+    web_url: https://github.com/topics/ubuntu
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ubuntu/ubuntu.png
