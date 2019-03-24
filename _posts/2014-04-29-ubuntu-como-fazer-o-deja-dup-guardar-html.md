@@ -13,11 +13,11 @@ gsettings set org.gnome.DejaDup delete-after 60
 
 Você também pode fazer isso usando o `dconf-editor`:
 
-![](/content/images/2014/May/1NOxS.png)
+![](/assets/1NOxS.png)
 
 O utilitário Déjà Dup vai fazer a alteração instantaneamente, adicionando este número de dias como uma opção:
 
-![](/content/images/2014/May/YpdDf.png)
+![](/assets/YpdDf.png)
 
 Detalhe importante: o Déjà Dup, internamente, tenta manter pelos menos dois backups completos no local de armazenamento. Por isso, se você definir um valor menor que 6 meses na chave `delete-after`, você também precisará colocar a metade deste valor na chave `full-backup-period`.
 

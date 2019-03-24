@@ -14,7 +14,7 @@ gsettings set org.gnome.desktop.interface buttons-have-icons true
 
 Após habilitados, os ícones voltam a aparecer nos menus, desse jeito:
 
-![](/content/images/2014/May/EspaC-o-de-Trabalho-1_001-1.png)
+![](/assets/icones-menus.png)
 
 Fonte: [GMJ Designs]
 

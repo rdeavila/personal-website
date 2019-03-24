@@ -20,6 +20,6 @@ var docWidth = document.documentElement.offsetWidth;
 
 Os culpados irão aparecer no Console...
 
-![](/content/images/2014/Aug/Captura-de-Tela-2014-08-19-C-s-17-16-54.png)
+![](/assets/scroll-horizontal.png)
 
 Fonte: [Finding/Fixing Unintended Body Overflow](http://css-tricks.com/findingfixing-unintended-body-overflow/)

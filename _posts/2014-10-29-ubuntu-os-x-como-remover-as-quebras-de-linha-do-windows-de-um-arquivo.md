@@ -5,7 +5,7 @@ date: 2014-10-29 16:25:02.000000000 -02:00
 ---
 Ao abrir um arquivo texto criado no Windows, as quebras de linha podem aparecer como caracteres estranhos, quando o arquivo é editado no Ubuntu ou no OS X.
 
-![](/content/images/2014/10/quebras-de-linha-windows.png)
+![](/assets/quebras-de-linha-windows.png)
 
 Para corrigir isto, basta passar o arquivo pelo comando `dos2unix`:
 

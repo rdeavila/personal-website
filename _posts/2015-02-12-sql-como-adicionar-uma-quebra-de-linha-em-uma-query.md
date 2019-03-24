@@ -32,11 +32,11 @@ resultados: em modo grid, e em modo texto.
 Quando visualizamos em modo grid, o Management Studio não mostra as quebras de
 linha:
 
-![](/content/images/2015/02/sqlserver-result-to-grid.png)
+![](/assets/sqlserver-result-to-grid.png)
 
 Mas, quando visualizamos em modo texto, ele faz a quebra, como deve ser:
 
-![](/content/images/2015/02/sqlserver-result-to-text.png)
+![](/assets/sqlserver-result-to-text.png)
 
 
 #### PostgreSQL
@@ -44,11 +44,11 @@ Mas, quando visualizamos em modo texto, ele faz a quebra, como deve ser:
 Ao visualizar usando o `psql`, ele mostra o `\r`, que é a representação do
 caractere de quebra de linha:
 
-![](/content/images/2015/02/pgsql-terminal.png)
+![](/assets/pgsql-terminal.png)
 
 Já quando visualizamos pelo PgAdmin, ele faz a quebra, como deve ser:
 
-![](/content/images/2015/02/pgsql-pgadmin.png)
+![](/assets/pgsql-pgadmin.png)
 
 
 #### Mas, e o meu aplicativo?
@@ -57,6 +57,3 @@ Se você utiliza esta dica em um aplicativo desenvolvido por você, você precis
 tratar o resultado da query, e mostrar os caracteres de quebra de linha da forma
 como quiser. Por exemplo, se estiver desenvolvendo um app web, você pode, na
 camada de visualização, substituir as quebras de linha por `<br/>`.
-
-Obrigado aos leitores [Leonardo Cintra](https://disqus.com/by/leonardonascimentocintra/)
-e [robson_cks](https://disqus.com/by/robson_cks/) pelo alerta!
