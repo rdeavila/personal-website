@@ -1,0 +1,24 @@
+{
+    "Name": "Rodrigo de Avila",
+    "Bio": "Born between RFCs 790-799",
+    "Website": "https://avila.net.br",
+    "Github": "https://github.com/rdeavila",
+    "GitLab": "https://gitlab.com/rodrigo.avila",
+    "DEV.to": "https://dev.to/rdeavila",
+    "Twitter": "https://twitter.com/RodrigoAvila",
+    "LinkedIn": "https://www.linkedin.com/in/rodrigodeavila/",
+    "blogs": {
+        "avila.net.br": [
+          {
+              "title": "Como testar as configurações do nginx",
+              "link": "https://avila.net.br/2015/05/12/como-testar-as-configuracoes-do-nginx"
+          }
+        ],
+        "dev.to": [
+          {
+              "title": "How to find a file by content?",
+              "link": "https://dev.to/rdeavila/how-to-find-a-file-by-content-4759"
+          }
+        ]
+    }
+}
