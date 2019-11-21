@@ -16,7 +16,7 @@ Este programa cria 2 arquivos:
 
 ```bash
 .ssh/id_ed25519
-.ssh/id_ed25519.pub.
+.ssh/id_ed25519.pub
 ```
 
 Transfira o `id_ed25519.pub` para a máquina que você deseja conectar remotamente, usando o comando abaixo. Substitua `login` por seu nome de usuário no computador remoto, e `maquinaremota` pelo endereço IP do servidor remoto. Se preciso, altere o número da porta do servidor SSH, no parâmetro `-p`
