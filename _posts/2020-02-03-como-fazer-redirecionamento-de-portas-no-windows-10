@@ -2,7 +2,7 @@
 layout: post
 title: "Como fazer redirecionamento de portas no Windows 10"
 date: 2020-02-03 09:46:42.000000000 -03:00
-published: false
+published: true
 ---
 
 Já precisou fazer um redirecionamento de portas no Windows? Por acaso você já usou Docker Toolbox, e queria saber 
