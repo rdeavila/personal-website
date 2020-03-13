@@ -1,17 +1,17 @@
 {
     "Name": "Rodrigo de Avila",
     "Bio": "Born between RFCs 790-799",
-    "Website": "https://avila.net.br",
+    "Website": "https://rodrigo.run",
     "Github": "https://github.com/rdeavila",
     "GitLab": "https://gitlab.com/rodrigo.avila",
     "DEV.to": "https://dev.to/rdeavila",
     "Twitter": "https://twitter.com/RodrigoAvila",
     "LinkedIn": "https://www.linkedin.com/in/rodrigodeavila/",
     "blogs": {
-        "avila.net.br": [
+        "rodrigo.run": [
           {
               "title": "Como testar as configurações do nginx",
-              "link": "https://avila.net.br/2015/05/12/como-testar-as-configuracoes-do-nginx"
+              "link": "https://rodrigo.run/2015/05/12/como-testar-as-configuracoes-do-nginx"
           }
         ],
         "dev.to": [
