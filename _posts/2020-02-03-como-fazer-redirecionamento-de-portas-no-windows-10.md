@@ -19,3 +19,9 @@ Para saber se a regra foi aplicada, execute
 {% highlight powershell %}
 netsh interface portproxy show all
 {% endhighlight %}
+
+Quer remover a regra?
+
+{% highlight powershell %}
+netsh interface portproxy delete v4tov4 listenport=80 listenaddress=127.0.0.1
+{% endhighlight %}
