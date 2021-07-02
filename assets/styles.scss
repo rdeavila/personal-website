@@ -2,10 +2,10 @@
 ---
 @import url('https://unpkg.com/primer/build/build.css');
 @import 'highlight-syntax';
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 html *
 {
-   font-family: 'JetBrains Mono' !important;
+   font-family: 'Source Sans Pro' !important;
 }
 // If a user adds a custom font, this component will stop it from bleeding into GitHub components:
 .github-component {
